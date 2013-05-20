@@ -1,0 +1,10 @@
+{ "projects" :  
+ [
+   {"name": "java",
+    "type" : "maven",
+    "directory" : "",
+    "commands" : ""        
+   }
+ ]
+}
+
