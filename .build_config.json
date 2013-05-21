@@ -1,29 +1,30 @@
 { "projects" :  
-
  [
-
    {
-    "name" : "java",
+    "name" : "java-en-root",
     "type" : "maven",
     "directory" : "",
     "commands" : ""        
    },
-
    {
-    "name" : "java"
+    "name" : "java-en-maven"
     "type" : "maven",
     "directory" : "maven",
     "commands" : ""
    },
-
    {
-    "name" : "free"
+    "name" : "free-en-free"
     "type" : "free",
     "directory" : "free",
+    "commands" : "ls -la"
+   },
+   {
+    "name" : "free-en-root"
+    "type" : "free",
+    "directory" : "",
     "commands" : "ls -la"
    }
 
  ]
-
 }
 
