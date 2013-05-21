@@ -7,24 +7,23 @@
     "commands" : ""        
    },
    {
-    "name" : "java-en-maven"
+    "name" : "java-en-maven",
     "type" : "maven",
     "directory" : "maven",
     "commands" : ""
    },
    {
-    "name" : "free-en-free"
+    "name" : "free-en-free",
     "type" : "free",
     "directory" : "free",
     "commands" : "ls -la"
    },
    {
-    "name" : "free-en-root"
+    "name" : "free-en-root",
     "type" : "free",
     "directory" : "",
     "commands" : "ls -la"
    }
-
  ]
 }
 
