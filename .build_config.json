@@ -1,10 +1,29 @@
 { "projects" :  
+
  [
-   {"name": "java",
+
+   {
+    "name" : "java",
     "type" : "maven",
     "directory" : "",
     "commands" : ""        
+   },
+
+   {
+    "name" : "java"
+    "type" : "maven",
+    "directory" : "maven",
+    "commands" : ""
+   },
+
+   {
+    "name" : "free"
+    "type" : "free",
+    "directory" : "free",
+    "commands" : "ls -la"
    }
+
  ]
+
 }
 
