@@ -16,7 +16,7 @@
     "name" : "free-en-free",
     "type" : "free",
     "directory" : "free",
-    "commands" : "ls -la"
+    "commands" : "false"
    },
    {
     "name" : "free-en-root",
