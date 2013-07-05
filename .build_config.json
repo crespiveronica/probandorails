@@ -12,9 +12,9 @@
     "directory" : "maven"
    },
    {
-    "name" : "rbenv-en-rbenv",
+    "name" : "rbenv-en-ruby",
     "type" : "rbenv",
-    "directory" : "rbenv",
+    "directory" : "ruby",
     "commands" : "bundle exec rspec"
    }
  ]
