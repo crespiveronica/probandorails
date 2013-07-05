@@ -3,26 +3,29 @@
    {
     "name" : "java-en-root",
     "type" : "maven",
-    "directory" : "",
-    "commands" : ""        
+    "override" : true,
+    "commands" : "mvn clean"        
    },
    {
     "name" : "java-en-maven",
     "type" : "maven",
-    "directory" : "maven",
-    "commands" : ""
+    "directory" : "maven"
+   },
+   {
+    "name" : "rbenv-en-rbenv",
+    "type" : "rbenv",
+    "directory" : "rbenv",
+   },
+   {
+    "name" : "free-en-root",
+    "type" : "free",
+    "commands" : "ls -la"
    },
    {
     "name" : "free-en-free",
     "type" : "free",
     "directory" : "free",
-    "commands" : "ls -la"
-   },
-   {
-    "name" : "free-en-root",
-    "type" : "free",
-    "directory" : "",
-    "commands" : "ls -la"
+    "commands" : "false"
    }
  ]
 }
