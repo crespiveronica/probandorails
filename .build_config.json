@@ -4,7 +4,7 @@
     "name" : "java-en-root",
     "type" : "maven",
     "override" : true,
-    "commands" : "mvn clean"        
+    "commands" : "clean"        
    },
    {
     "name" : "java-en-maven",
@@ -15,17 +15,6 @@
     "name" : "rbenv-en-rbenv",
     "type" : "rbenv",
     "directory" : "rbenv"
-   },
-   {
-    "name" : "free-en-root",
-    "type" : "free",
-    "commands" : "ls -la"
-   },
-   {
-    "name" : "free-en-free",
-    "type" : "free",
-    "directory" : "free",
-    "commands" : "false"
    }
  ]
 }
