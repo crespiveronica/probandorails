@@ -1,0 +1,3 @@
+class Leaf < AbstractNode
+
+end
