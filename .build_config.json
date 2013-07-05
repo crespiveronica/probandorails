@@ -14,7 +14,7 @@
    {
     "name" : "rbenv-en-rbenv",
     "type" : "rbenv",
-    "directory" : "rbenv",
+    "directory" : "rbenv"
    },
    {
     "name" : "free-en-root",
