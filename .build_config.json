@@ -14,7 +14,8 @@
    {
     "name" : "rbenv-en-rbenv",
     "type" : "rbenv",
-    "directory" : "rbenv"
+    "directory" : "rbenv",
+    "commands" : "bundle exec rspec"
    }
  ]
 }
