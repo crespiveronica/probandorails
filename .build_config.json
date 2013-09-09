@@ -1,22 +1,6 @@
 { "projects" :  
  [
    {
-    "name" : "java-en-root",
-    "type" : "maven",
-    "override_default_commands" : true,
-    "commands" : "clean"        
-   },
-   {
-    "name" : "java-en-maven",
-    "type" : "maven",
-    "directory" : "maven"
-   },
-   {
-    "name" : "rbenv-en-ruby",
-    "type" : "rbenv",
-    "directory" : "ruby"
-   },
-   {
     "name" : "free-en-root",
     "type" : "free",
     "commands" : "ls -la"
